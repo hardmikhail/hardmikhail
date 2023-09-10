@@ -1,6 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Mikhail
+
 
 <!--
+
+
+![Static Badge](https://img.shields.io/badge/any_text-you_like-blue?logo=appveyor)
+
+
+[![codewars](https://www.codewars.com/users/hardmikhail/badges/large)](https://www.codewars.com/users/hardmikhail)
+
 **hardmikhail/hardmikhail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
